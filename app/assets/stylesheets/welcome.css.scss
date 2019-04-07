@@ -1,5 +1,5 @@
 #banner {
-	background-image: url(image_path("welcome_banner_image.jpg"));
+	background-image: image-url("welcome_banner.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -81,5 +81,5 @@
 			font-size: 1.25rem;
 			margin: 0 0 2.5rem 0;
 			color: #a7a8a8;
-		}
+	}
 }
